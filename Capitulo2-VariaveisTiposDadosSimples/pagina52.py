@@ -4,8 +4,6 @@
 
 #Exemplo: capíulo 2, página 52
 
-import os
-
 message = "Hello Python world!"
 print(message)
 
