@@ -4,6 +4,11 @@
 
 #Exemplo: capíulo 2, página 52
 
-message = "Hello Python world!"
+import os
 
+message = "Hello Python world!"
 print(message)
+
+message = "Hello Python Crash Course world!"
+print(message)
+
